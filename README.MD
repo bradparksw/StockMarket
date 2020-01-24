@@ -1,5 +1,7 @@
 ### Installations
 
+# Warning: application might be outdated due to changes on stock websites.
+
 # **Make sure you are in python 3 or above**
 
 Before running the .py file, make sure to run the following commands in command line to install necessary tools:
